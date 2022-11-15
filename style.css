@@ -1,0 +1,41 @@
+html, body {
+    margin: 0;
+  }
+  
+  html {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    height: 100%;
+  }
+  
+  body {
+    overflow: hidden;
+    height: inherit;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    letter-spacing: -1px;
+    position: absolute;
+    margin: 0;
+    top: -4px;
+    right: 5px;
+  
+    
+    text-shadow: 0 0 4px #aaa;
+  }
+
+  button{
+    background: rgba(0,0,0,0.25);
+    color: white;
+    position: absolute;
+    top: 40px;
+    right: 5px;
+
+  }
+  p {
+    position: absolute;
+    margin: 0;
+    top: 65px;
+    right: 5px;
+    color: #aaa;
+  }

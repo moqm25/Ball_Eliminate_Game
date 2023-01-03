@@ -8,3 +8,5 @@ Open the *Ball_Game.html* file to play the game.
 
 
 > Press the 'start' button to start, use the arrow keys to move the evil circle.
+
+Or check out the game here: https://moqm25.github.io/Ball_Eliminate_Game/
